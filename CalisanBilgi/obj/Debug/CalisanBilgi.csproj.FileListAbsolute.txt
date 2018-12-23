@@ -1,0 +1,11 @@
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\bin\Debug\CalisanBilgi.exe.config
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\bin\Debug\CalisanBilgi.exe
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\bin\Debug\CalisanBilgi.pdb
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.csprojAssemblyReference.cache
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.Form1.resources
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.Properties.Resources.resources
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.csproj.GenerateResource.cache
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.exe
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.pdb
+C:\Users\Huseyin\source\repos\CalisanBilgi\CalisanBilgi\obj\Debug\CalisanBilgi.Forms.OperationsForm.resources
