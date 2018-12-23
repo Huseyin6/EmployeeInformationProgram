@@ -36,6 +36,7 @@ namespace CalisanBilgi.Classes
         }
         public DataTable GetEmployeeTable()
         {
+        /// You can use Store Procedure instead of sql string. 
             string sqlQuery = "select e.EmpName,e.EmpSurname,replace(e.Sex,1,'Male') As Sex,e.MailAddress,d.DepartmanName,p.PhoneNumber,p.ExtansionNumber,e.StartedDate,e.EndedDate " +
                 "from Employees e,Departmans d, PhoneNumbers p " +
                 "where e.DepartmanId = d.DepartmanId and e.RegistrationNumber = p.RegistrationNumber ";
@@ -47,8 +48,9 @@ namespace CalisanBilgi.Classes
     class SQLOperations
     {
         private static SqlConnection GetSqlConnection()
-        {
-            SqlConnection conn = new SqlConnection("Data Source=DESKTOP-D1P3ETA; Initial Catalog=EmployeeDB; Integrated Security=True;");
+        {   
+            /// You can write own sql connection string. xxxxxx= your computer sql name 
+            SqlConnection conn = new SqlConnection("Data Source=xxxxx; Initial Catalog=EmployeeDB; Integrated Security=True;");
             conn.Open();
             return conn;
         } 
